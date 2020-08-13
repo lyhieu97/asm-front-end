@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike",
+      "image": "https://giaygiare.vn/upload/sanpham/large/nike-air-force-1-shadow-beige-pale-ivory.jpg",
+      "price": "29",
+      "quantity": "99",
+      "description": "The sun is shining, warming your skin. Your muscles feel loose and limber. Your spirits are high. Optimism courses through your body. This is going to be a great run. Don't avoid the heat. Embrace it in these adidas Ultraboost S.RDY Shoes. Designed to help you run your best in hot conditions, the shoes have a super light and breathable knit upper with transparent windows that let bright socks show though. Make pink your power colour. Inspired by the global movement for change that unites all of us, no matter our gender."
+    },
+    {
+      "id": 2,
+      "name": "Adidas",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/347/092/products/z-db1831-01.jpg?v=1581832889470",
+      "price": "39",
+      "quantity": 100,
+      "description": "It's been a long day without you, my friend And I'll tell you all about it when I see you again We've come a long way from where we began Oh I'll tell you all about it when I see you again When I see you again"
+    },
+    {
+      "id": 3,
+      "name": "Sneaker",
+      "image": "https://giayxshop.vn/wp-content/uploads/2019/02/MG_4995-600x600.jpg",
+      "price": "49",
+      "quantity": 100,
+      "description": "Damn, who knew all the planes we flew Good things we've been through That I'll be standing right here Talking to you about another path I Know we loved to hit the road and laugh But something told me that it wouldn't last Had to switch up look at things different see the bigger picture Those were the days hard work forever pays now I see you in a better place"
+    },
+    {
+      "id": 4,
+      "name": "Heels",
+      "image": "https://s3-ap-southeast-2.amazonaws.com/assets-novo-com-au/images/00cjd782i_w433_h433.jpg",
+      "price": "59",
+      "quantity": 100,
+      "description": "How could we not talk about family when family's all that we got? Everything I went through you were standing there by my side And now you gonna be with me for the last ride It's been a long day…"
+    },
+    {
+      "id": 5,
+      "name": "Shoe",
+      "image": "https://file.yes24.vn/Upload/ProductImage/2019/1983066_L.jpg",
+      "price": "69",
+      "quantity": 100,
+      "description": "Wait a second, let me catch my breath Remind me how it feels to hear your voice Your lips are movin', I can't hear a thing Livin' life as if we had a choice Anywhere, anytime I would do anything for you Anything for you Yesterday got away Melodies stuck inside your head A song in every breath"
+    },
+    {
+      "id": 6,
+      "name": "Fila",
+      "image": "https://thesneakerhouse.com/wp-content/uploads/2018/10/Fila-Heritage-Disruptor5.jpg",
+      "price": "79",
+      "quantity": 100,
+      "description": "Sing me to sleep now Sing me to sleep Won't you sing me to sleep now? Sing me to sleep Remember me now, time cannot erase I can hear your whispers in my mind I've become what you cannot…"
+    },
+    {
+      "id": 7,
+      "name": "Sport Man",
+      "image": "https://photos6.spartoo.eu/photos/967/9670058/9670058_500_A.jpg",
+      "price": "89",
+      "quantity": 100,
+      "description": "Wait a second, let me catch my breath Remind me how it feels to hear your voice Your lips are movin', I can't hear a thing Livin' life as if we had a choice Anywhere, anytime I would do anything for you Anything for you Yesterday got away Melodies stuck inside your head A song in every breath"
+    },
+    {
+      "id": 8,
+      "name": "Sport Women",
+      "image": "https://www.sportsshoes.com/media/image/department/homepage/en-gb/hotspot-tile-2-switch.jpg",
+      "price": "99",
+      "quantity": "86",
+      "description": "Remember me now, time cannot erase I can hear your whispers in my mind I've become what you cannot embrace Our memory will be my lullaby Sing me to sleep now Sing me to sleep Won't you sing me to sleep now? Sing me to sleep"
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "Super Fake",
+      "img": "https://giaygiare.vn/upload/sanpham/large/nike-air-force-1-just-do-it-da-nham-nam-nu.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fake 1",
+      "img": "https://bucket.nhanh.vn/store/14522/artCT/47020/d397ff16.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Fake 2",
+      "img": "https://giaygiare.vn/upload/sanpham/large/adidas-yeezy-boost-350-v2-beluga-2-0-nam-nu-sf.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fake 3",
+      "img": "https://cdn.pose.com.vn/legacy/images/baiviet/201702/scrape_14871856018426_1-1487003617551.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Good products",
+      "image": "https://ordixi.com/wp-content/uploads/2019/08/giay-nike-signal-dmsx-at5303-100-at5303-800-release-date06.jpg",
+      "name": "hieu",
+      "email": "hieulvph09406@gmail.com",
+      "comment": "this products is very good and cheaper too, !!!"
+    },
+    {
+      "id": 2,
+      "title": "GOOD GOOD",
+      "image": "https://ragus.vn/wp-content/uploads/2020/02/Nike-Air-Max-200-Bubble-Pack-CT5062-100-Release-Date.jpg",
+      "name": "noname",
+      "email": "noname@gmail.com",
+      "comment": "GOODDDDDD :3"
+    }
+  ],
+  "contact": [
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "subject": "",
+      "message": ""
+    }
+  ]
+}
